@@ -7,7 +7,7 @@
   </a>
 </p>
 
-This repository provides the official PyTorch implementation of BAG-Net (Bidirectional Receptive-Field Graph Network), a deep learning framework focuses on pruning correspondences from an initial set of correspondences with a low inlier ratio.
+This repository provides the official PyTorch implementation of BAG-Net (Bidirectional Receptive-Field Graph Network), a deep learning framework that focuses on pruning correspondences from an initial set of matches with a low inlier ratio.
 
 If you find this project useful, please cite:
 
